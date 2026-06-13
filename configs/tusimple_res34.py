@@ -1,5 +1,5 @@
 dataset= 'Tusimple'
-data_root= '' # Need to be modified before running
+data_root = '/media/aleksa21/NVme Data/Datasets/TUSimple'
 epoch= 100
 batch_size= 32
 optimizer= 'SGD'

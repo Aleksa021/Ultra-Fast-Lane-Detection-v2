@@ -2,7 +2,8 @@ opencv-python
 tqdm
 tensorboard
 addict
-sklearn
+scikit-learn
 pathspec
 imagesize
 ujson
+tensorrt-cu11==10.13.0.35
